@@ -1,0 +1,53 @@
+body { 
+	padding-top: 70px; 
+}
+
+.drop-shadow {
+        -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, .5);
+        box-shadow: 0 0 5px 2px rgba(0, 0, 0, .5);
+        padding: 2em;
+        
+    }
+
+    
+.col-center-block {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#marcoTabla
+{
+	width : 70%;
+	border: 3px;
+	background: rgb(243, 244, 248);
+}
+
+#usuarios
+{
+	cellspacing :0 ; 
+	width :100%;
+}
+
+.centrado
+{
+	margin: 0 auto;
+text-align: left;
+}
+
+#tabla tr:hover
+{
+	background-color: #2E9AFE;
+	color: white;
+}
+#tabla tr:active 
+{
+    background-color: #2E9AFE;
+	color: white;
+}
+.filaS
+{
+	background-color: #2E9AFE;
+	color: white;
+}
